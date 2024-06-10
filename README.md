@@ -7,7 +7,7 @@ Untalizing Adafruits Circuit Playground Express- non Bluefruit ver. with Pyhton 
 
 included in the repository is the circuitpython 9.x bundle, exspasions on the led, ir, and motion sensing libraries
 
-The pyhton portion of the camp purpuse is to inspire young minds to create, and what can be created with microcontrollers
+The pyhthon portion of the camp purpuse is to inspire young minds to create, and show what can be created with microcontrollers
 
 the flow of my portion will start with understanding leds, so that the group can utalize alterntive methods of creating ui
 and emplementing ways of using simple ui
